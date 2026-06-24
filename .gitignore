@@ -1,3 +1,6 @@
+# SDD agent cache (local, not shareable)
+.atl/
+
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +46,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#cursor rules
+.cursorrules

@@ -42,55 +42,28 @@ Desarrollen una aplicación móvil dedicada a una serie, película o canal de Yo
 
 La pantalla de inicio incluye un **carrusel (slider)** con imágenes de la serie, el logo de RickVerse superpuesto y un menú de acceso rápido a las demás secciones de la app.
 
-<p align="center">
-  <img src="docs/screenshots/homePage.jpg" width="320" alt="Portada — carrusel y menú principal" />
-</p>
 
 ### Personajes
 
 Se consultan personajes desde la **Rick and Morty API**. La lista muestra al menos tres personajes con nombre, estado y especie. Al seleccionar uno se abre la vista de detalle con foto, estado, especie, tipo, género, origen, ubicación y cantidad de episodios.
 
-<p align="center">
-  <img src="docs/screenshots/personajes.jpg" width="320" alt="Listado de personajes" />
-  <img src="docs/screenshots/rickSanchez_personaje.jpg" width="320" alt="Detalle de Rick Sanchez" />
-</p>
-
 ### Momentos
 
 Tres momentos favoritos con imagen y título. En el detalle se muestra la descripción completa y un **reproductor de YouTube integrado** (`youtube_player_iframe`) que reproduce el video dentro de la app.
-
-<p align="center">
-  <img src="docs/screenshots/momentos.jpg" width="320" alt="Listado de momentos favoritos" />
-  <img src="docs/screenshots/pickleRick.jpg" width="320" alt="Detalle del momento Pickle Rick con video" />
-</p>
 
 ### Acerca de
 
 Vista con imagen de portada, descripción de la serie, tipo de obra, **creadores** (Justin Roiland y Dan Harmon), **cantidad de temporadas**, año de estreno y tema principal.
 
-<p align="center">
-  <img src="docs/screenshots/acercaDe.jpg" width="320" alt="Pantalla Acerca de la serie" />
-</p>
-
 ### Juega Conmigo
 
 Mini-juego de **adivinanza de personajes** (estilo ahorcado). Se muestra la imagen de un personaje aleatorio de la API, pistas de especie/género e intentos limitados. Incluye teclado de letras, marcador de aciertos/fallos y racha.
-
-<p align="center">
-  <img src="docs/screenshots/juego1.jpg" width="320" alt="Mini-juego — inicio de partida" />
-  <img src="docs/screenshots/juego2.jpg" width="320" alt="Mini-juego — intentos en curso" />
-  <img src="docs/screenshots/juego3.jpg" width="320" alt="Mini-juego — resultado de la ronda" />
-</p>
 
 Referencia de ejemplo: [adamix.net/tareas/itla2](https://adamix.net/tareas/itla2/)
 
 ### Contrátame
 
 Tarjeta de perfil con **foto**, nombre, matrícula y enlaces de contacto (correo, teléfono, GitHub y LinkedIn).
-
-<p align="center">
-  <img src="docs/screenshots/contratame.jpg" width="320" alt="Perfil y datos de contacto" />
-</p>
 
 ---
 

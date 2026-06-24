@@ -14,7 +14,7 @@
 </p>
 
 <p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,android,chrome,windows,vscode,git,github&theme=dark&perline=8" alt="Stack principal" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,windows,vscode,git,github&theme=dark&perline=8" alt="Stack principal" /></a>
 </p>
 
 </div>
@@ -138,8 +138,6 @@ docs/screenshots/        # Capturas de pantalla para el README
 <p align="center">
   <a href="https://flutter.dev" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
   <a href="https://dart.dev" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
-  <a href="https://developer.android.com" title="Android"><img src="https://skillicons.dev/icons?i=android" alt="Android" /></a>
-  <a href="https://www.google.com/chrome/" title="Chrome"><img src="https://skillicons.dev/icons?i=chrome" alt="Chrome" /></a>
   <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 </p>
 
@@ -185,7 +183,7 @@ flutter test
 ## Tecnologías utilizadas
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,android,chrome,windows,vscode,git,github,youtube&theme=dark&perline=8" alt="Tecnologías del proyecto" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,windows,vscode,git,github,youtube&theme=dark&perline=8" alt="Tecnologías del proyecto" /></a>
 </p>
 
 | Tecnología | Uso | Icono |

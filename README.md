@@ -221,10 +221,26 @@ flutter test
 
 Proyecto desarrollado como parte de la materia **Introducción al Desarrollo de Aplicaciones Móviles**, impartida por el profesor **Amadis Suárez Genao**.
 
-La serie **Rick and Morty** es propiedad de sus respectivos creadores y distribuidores. Esta aplicación es un proyecto académico sin fines comerciales.
+Consulta el [Aviso legal (NOTICE)](#aviso-legal-notice) para el alcance de la licencia y el uso de contenido de terceros.
 
 ---
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia MIT.
+El **código fuente** de este repositorio se distribuye bajo la [licencia MIT](LICENSE).
+
+---
+
+## Aviso legal (NOTICE)
+
+> El código fuente se distribuye bajo MIT. Las imágenes, marcas y contenido audiovisual de **Rick and Morty** pertenecen a sus respectivos titulares y se usan **únicamente con fines educativos**.
+
+| Contenido | Titular / origen | Alcance de la licencia MIT |
+|-----------|------------------|----------------------------|
+| Código Flutter (`lib/`, tests, configuración) | Christian Gil | Cubierto por MIT |
+| Imágenes locales (`assets/images/`) | Varios autores / fanart | **No** cubierto — uso académico |
+| Personajes e imágenes desde API | [Rick and Morty API](https://rickandmortyapi.com/) | **No** cubierto — datos de terceros |
+| Videos embebidos | YouTube / titulares del contenido | **No** cubierto — reproducción in-app con fines educativos |
+| Marca **Rick and Morty** | Adult Swim / Warner Bros. Discovery | **No** cubierto — marca registrada de terceros |
+
+Esta aplicación es un **proyecto académico sin fines comerciales**, desarrollado para la materia **Introducción al Desarrollo de Aplicaciones Móviles** (ITLA). No está afiliada, aprobada ni patrocinada por Adult Swim, Warner Bros. ni por los creadores oficiales de la serie.
